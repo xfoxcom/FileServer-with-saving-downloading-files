@@ -1,2 +1,2 @@
 # FileServer-with-saving-downloading-files
-Upload and Download files from server.
+Upload, Download and Delete files from server.
